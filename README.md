@@ -1,1 +1,1 @@
-# Sucess-Edu
+Our website  Success-Edu is especially for studnents, it offers various courses and it shows all the profiles of faculty and events conducted. All the eligible users can access the website. If there are any issues then they can use the contact us page.
